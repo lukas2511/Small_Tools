@@ -2,4 +2,4 @@ imapmove.py is a little python script i wrote to move mails from googlemail to a
 
 imapdeduplicate.py is a little python script i wrote to remove duplicates of mails in an imap folder
 
-imapmarkread is a little python script i wrote to mark all mails as read on a specific imap path
+imapmarkread.py is a little python script i wrote to mark all mails as read in an imap folder
