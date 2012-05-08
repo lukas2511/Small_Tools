@@ -27,8 +27,6 @@ else:
 
 tmail.login(targetuser, targetpasswd)
 
-print tmail.list()
-
 smail.select(sourcepath)
 
 result, data = smail.uid('search', None, "ALL")
