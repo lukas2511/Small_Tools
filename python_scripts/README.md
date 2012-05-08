@@ -1,0 +1,1 @@
+imapmove.py is a little python script i wrote to move mails from googlemail to another mailserver, it's easy to use, only problem: i don't know how to always get the right date and time.. most of the mails are copied with correct date and time but some have just the current timestamp
